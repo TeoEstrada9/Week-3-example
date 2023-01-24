@@ -2,7 +2,7 @@ export default function Card({
     degree = "none",
     colour = "green",
     font = "0",
-    image = "Images/person1.jpg"
+   
 }) {
     return (
         <div style={{backgroundColor: colour, fontSize: font}}>

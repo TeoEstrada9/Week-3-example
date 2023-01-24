@@ -1,7 +1,7 @@
 import data from '../Data/employees.json'
 import { useState } from 'react';
 import Card from '../Components/Employees/employees'
-import styles from '@/styles/About.module.css'
+import styles from 'styles/About.module.css'
 
 export default function About() {
     console.log(data);

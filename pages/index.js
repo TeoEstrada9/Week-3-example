@@ -1,6 +1,6 @@
 import Head from 'next/head'
 import { Inter } from '@next/font/google'
-import styles from '@/styles/Home.module.css'
+import styles from 'styles/Home.module.css'
 import data from '../Data/education.json'
 import { useState } from 'react'
 import Link from 'next/link'
