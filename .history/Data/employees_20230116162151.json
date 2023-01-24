@@ -1,0 +1,14 @@
+[
+
+    {
+        "employeeName": "Mark", 
+        "wage": 4500, 
+        "jobTitle": "UI Designer",
+        "yearWorked": 2
+    }, 
+
+    {
+        "employeeName": ""
+    }
+    
+]

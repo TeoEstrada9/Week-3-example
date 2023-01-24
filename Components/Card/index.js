@@ -1,15 +1,15 @@
 export default function Card({
     degree = "none",
-    colour = "purple",
+    colour = "green",
     font = "0",
-    image = "icon/personTwo.png"
+    image = "Images/person1.jpg"
 }) {
     return (
         <div style={{backgroundColor: colour, fontSize: font}}>
             {
-                colour === "red" ? <img src={'icon/person.png'}width="50"/> :
-                colour === "blue" ? <img src={'icon/personThree.png'}width="50"/> :
-                                    <img src={'icon/person.png'}width="50"/>
+                colour === "green" ? <img src={'person1.jpg'}width="50"/> :
+                colour === "purple" ? <img src={'icon/person3.jpg'}width="50"/> :
+                                    <img src={'icon/person2.jpg'}width="50"/>
             }
             {degree}
 

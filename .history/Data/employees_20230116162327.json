@@ -1,0 +1,24 @@
+[
+
+    {
+        "employeeName": "Mark", 
+        "wage": 45000, 
+        "jobTitle": "UI Designer",
+        "yearWorked": 2
+    }, 
+
+    {
+        "employeeName": "Maya", 
+        "wage": 35000, 
+        "jobTitle": "Marketer", 
+        "yearWorked": 5
+    }, 
+
+    {
+        "employeeName": "James", 
+        "wage": 65000, 
+        
+
+    }
+    
+]
